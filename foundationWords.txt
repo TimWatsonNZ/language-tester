@@ -1,0 +1,1094 @@
+Auge,eye
+Bauch,tummy
+Bein,leg
+Gesicht,face
+Haare,hair
+Hals,neck/throat
+Knie,knee
+Körper,body
+Mund,mouth
+Nase,nose
+Ohr,ear
+Schulter,shoulder
+angeln,to fish
+Angelrute,fishing rod
+Bad,bath
+baden,to bathe
+Badeanzughose,swimming trunks
+Badeort,seaside resort
+bewegen,to move
+Endspiel,final
+Freibad,swimming pool
+Fuß,foot
+Fußball,football
+gewinnen,to win
+Hallenbad,indoor swimming pool
+joggen,to jog
+Kanufahren,canoeing
+kegeln,to play skittles
+klettern,to climb
+laufen,to run
+Leichtathletik,athletics
+Liga,league
+Mannschaft,team
+Netz,net
+Reiten,horse riding
+rennen,to run
+Rennen,race
+Rollbrett,skateboard
+Roller,scooter
+Rollschuhlaufen,to roller skate
+Ruderboot,rowing boat
+rudern,to row
+schießen,to shoot
+schlagen,to hit
+Schläger,racquet
+Schließfach,locker
+Schlittschuhlaufen,to ice skate
+Schwimmbad,swimming pool
+schwimmen,to swim
+See,lake/sea
+segeln,to sail
+Skifahren,to ski
+Skilehrer,ski instructor
+spazierengehen,to go for a walk
+Spaziergang,walk
+Spiel,game/match
+spielen,to play
+Spieler,player
+Spielzeug,toy
+Sport treiben,to do sport
+Sportplatz,sports ground
+springen,to jump
+Stadion,stadium
+steigen,to climb
+Surfbrett,surfboard
+Tor,gate/goal
+Umkleideraum,changing room
+Verein,club
+verlieren,to lose
+wandern,to hike
+Wanderung,hike
+werfen,to throw
+windsurfen,to windsurf
+Biene,bee
+Erkältung,a cold
+Fieber,fever
+Fliege,fly
+fühlen,to feel
+Gefühl,feeling
+gesund,healthy
+Grippe,flu
+Halsschmerzen,sore throat
+Hansaplast,sticking plaster/plaster
+Heftpflaster,sticking plaster
+helfen,to help
+Husten,cough
+husten,to cough
+Kopfschmerzen,headache
+krank,ill
+Krankenhaus,hospital
+Krankenpfleger,male nurse
+Krankenschwester,female nurse
+Krankenwagen,ambulance
+Magenschmerzen,stomachache
+Medikament,medicine
+Operation,medical operation
+Patient,patient
+Rezept,prescription
+Schmerzhaft,painful
+Schnupfen,cold
+seekrank,seasick
+sprechen,to speak
+Sprechstunde,surgery hours
+stechen,to sting
+Stich,sting
+Tablette,tablet/pill
+Unfall,accident
+verletzen,to injure
+weh tun,to hurt
+Wespe,wasp
+Wunde,wound
+Zahnschmerzen,toothache
+Zahnarzt,dentist
+Zahnbürste,toothbrush
+Zahnpasta,toothpaste
+Anfänger,beginner
+bluten,to bleed
+Blutprobe,blood test
+brennen,to burn
+Brust,chest
+Chirurg,surgeon
+Durchfall,diarrhoea
+Ellbogen,elbow
+erbrechen,to be sick
+Ereignis,event
+Erfolg,success
+Ergebnis,result/score
+erhalten,to receive
+erholen,to recover
+Erleichterung,relief
+erreichen,to reach/to catch
+erste Hilfe,first aid
+fangen,to catch
+Fußgelenk,ankle
+Gehirn,brain
+Geruch,smell
+geschwollen,swollen
+Gipsverband,plaster
+Glatze,bald,patch
+Handgelenk,wrist
+Haut,skin
+heben,to lift/raise
+Heimweh,homesickness
+Helm,helmet
+Heuschnupfen,hay fever
+Höhe,height
+Höhle,cave
+Hustensaft,cough mixture
+jagen,to hunt
+Kinn,chin
+Knochen,bone
+leiden,to suffer
+Magenverstimmung,stomach upset
+Meister,champion
+Menge,quantity
+messen,to measure
+nackt,naked
+Pfeil,arrow
+pflegen,to look after
+Pokal,trophy
+Röntgenbild,x-ray
+Salbe,cream/ointment/salve
+schaden,to do harm
+Schaden,damage
+Schiedsrichter,referee
+schlucken,to swallow
+Sieg,win/victory
+Sonnenstich,sun stroke
+Sorge,worry
+sorgen für,to look after
+Spritze,injection
+tauchen,to dive
+teilnehmen,to take part
+Turnier,tournament
+übergeben,to be sick
+unentschieden,undecided
+untersuchen,to examine
+Verband,bandage
+verstauchen,to sprain
+verstopft,constipated
+Wange,cheek
+Wettbewerb,competition
+Wettkampf,competition
+Zeh,toe
+Zunge,tongue
+Abendessen,dinner
+Durst,thirst
+Durstig,thirsty
+Flamme,flame
+Flasche,bottle
+frisch,fresh
+Frühstück,breakfast
+Gabel,fork
+gemischt,mixed
+Gericht,dish/course
+Geschirr(tuch),crockery
+Geschirrtuch,tea towel
+Getränk,drink
+grillen,to grill/barbecue
+Imbiss,snack
+Imbiss(stube),snack bar
+Kännchen,small pot
+Kantine,canteen
+Küche,kitchen
+lecker,delicious
+Löffel,spoon
+Mahlzeit,enjoy you meal
+Messer,knife
+Mittagessen,lunch
+Nachtisch,dessert
+schmecken,to taste
+schnell,quick
+Schnellimbiss,fast food restaurant
+Schüssel,bowl
+Selbstbedienung,self-service
+Speisekarte,menu
+Speisewagen,dining,car
+Supermarkt,supermarket,
+süß,sweet
+Tageskarte,menu
+Tasse,cup
+Tee,tea
+Teekanne,teapot
+Teller,plate
+trinken,to drink
+Untertasse,saucer
+Vorspeise,starter
+zum Mitnehmen,take away
+Bier,beer
+Cola,coke
+Fruchtsaft,fruit juice
+Kaffeekanne,coffeepot
+Limonade,lemonade
+Milch,milk
+Saft,juice
+Sekt,champagne
+Sprudel,pop
+Ananas,pineapple
+Apfel,apple
+Apfelsine,orange
+Aprikose,apricot
+Aufschnitt,sliced meats
+Birne,pear
+Blumenkohl,cauliflower
+Bockwurst,boiled sausage
+Bohnen,beans
+Bonbons,sweets
+Braten,roast meat
+braten,to roast
+Bratkartoffeln,fried potatoes
+Bratpfanne,frying pan
+Bratwurst,sausage
+Brötchen,bread roll
+Butterbrot,sandwich
+Kartoffelschips,crisps
+Ei,egg
+Eintopf,stew
+Eis,ice-cream
+Eisbecher,ice-cream sundae
+Erbsen,peas
+Erdbeere,strawberry
+essen,to eat
+Essen,food
+Essig,vinegar
+Fleisch,meat
+Forelle,trout
+Frikadelle,meatball
+Gans,goose
+gekochtes Ei,boiled egg
+Gemüse,vegetables
+Gewürz,spice
+Gurke,cucumber
+Hähnchen,chicken
+Himbeere,raspberry
+Honig,honey
+Kalbfleisch,veal
+Karotte,carrot
+Kartoffel,potato
+Kartoffelbrei,mashed potato
+Käse,cheese
+Kaugummi,chewing gum
+Kekse,biscuits
+Kirsche,cherry
+Kohl,cabbage
+Kopfsalat,lettuce
+Kotelett,chop/cutlet
+Kuchen,cake
+Lachs,salmon
+Lammfleisch,lamb
+Leber,liver
+Marmelade,jam
+Nudeln,pasta/noodles
+Nuss,nut
+Obst,fruit
+Öl,oil
+Orangenmarmelade,orange marmelade
+Pampelmuse,grapefruit
+Pfeffer,pepper
+Pfirsich,peach
+Pflaume,plum
+Pilz,mushroom
+Pommes,chips
+Pralinen,chocolates
+Riegel,bar
+Rindfleisch,beef
+Rosenkohl,brussel sprouts
+Salz,salt
+Salzkartoffeln,boiled potatoes
+Sauerkraut,pickled cabbage
+Schaschlick,kebab
+Scheibe,slice
+Schinken,ham
+Schlagsahne,whipped cream
+Schokolade,chocolate
+schwarze Johannisbeere,blackcurrant
+Schweinefleisch,pork
+Senf,mustard
+Soße,gravy/sauce
+Speck,bacon
+Spiegelei,fried egg
+Spinat,spinach
+Suppe,soup
+Süßigkeiten,sweets
+Toastbrot,toast
+Traube,grape
+Truthahn,turkey
+Wurst,sausage,
+Zitrone,lemon
+Zucker,sugar
+Zwiebel,onion
+Büchse,can
+Dose,can
+Dosenöffner,can opener
+Karton,cardboard box
+Korb,basket
+Packung,packet
+Schachtel,box
+Tüte,bag
+Besteck,cutlery
+bestehen aus,to consist of
+Diät,diet
+Eine Diät halten,to be on a diet
+dienen,to serve
+enthalten,to contain
+Fett,fat/grease
+Geflügel,poultry
+Geschmack,taste
+gießen,to pour
+pikant,spicy
+probieren,to try
+reichen,to pass
+riechen,to smell
+satt,full
+schälen,to peel
+Spargel,asparagus
+Vegetarier,vegetarian
+Verpackung,packaging
+Weinprobe,wine-tasting
+amüsieren,to enjoy
+Ansichtskarte,postcard
+ausgeben,to spend
+ausgehen,to go,out
+Auskunft,information
+Ausstellung,exhibition
+basteln,to make things
+bestellen,to order
+abbestellen,to cancel
+bezahlen,to pay
+Bild,picture
+Blumenhändler,florist
+Chor,choir
+Computerspiel,computer game
+Sehenswürdigkeiten besichtigen,to go sight-seeing
+einkaufen,to shop
+einkaufen gehen,to go shopping
+Einladung,invitation
+einladen,to invite
+Eintritt,admission,charge
+Eisbahn,ice rink
+Eislaufen,to ice skate
+Erfrischungen,refreshments
+Fest,festival/party
+Feuerwerk,fireworks
+frei,free
+im Freien,in the open air
+Freizeit,free time
+beschäftigung,leisure activity
+fröhliche Weihnachten,Happy Christmas
+Heiligabend,Christmas Eve
+Ostern,Easter
+Silvester,New Year's Eve
+Weihnachten,Christmas
+Weihnachtsbaum,Christmas tree
+Tannenbaum,fir tree
+funktionieren,to function
+genießen,to enjoy
+Geschenk,present
+Handy,mobile phone
+Herr Ober,waiter
+Herz,heart
+im Freien,open air
+Jugendklub,youth club
+Jugendliche,young person
+jung,young
+Terminkalender,diary
+Karte,card
+kaufen,to buy
+Kaufhaus,department store
+kennen,to know
+kennen lernen,to get to know
+kosten,to cost
+kostenlos,free
+Kuss,kiss
+lachen,to laugh
+Lust haben,to feel like
+malen,to paint
+Mitglied,member
+Preis,price/prize
+preiswert,cheap
+Rechnung,bill
+reservieren,to reserve
+sammeln,to collect
+Schach,chess
+schenken,to give a present
+schicken,to send
+Schlussverkauf,sale
+Sonderangebot,special offer
+spannend,exciting
+Spaß,fun
+spät,late
+teuer,expensive
+treffen,to meet
+Treffpunkt,meeting place
+verbringen,to spend time
+verkaufen,to sell
+ausverkaufen,to sell out
+vorstellen sich,to introduce oneself
+zahlen,to pay
+begegnen,to meet
+begleiten,to accompany
+bekannt,well-known/famous
+Bekannter,acquaintance
+drucken,to print
+Drucker,printer
+empfehlen,to recommend
+Ergebnis,result/score
+Ermässigung,discount
+faulenzen,to laze about
+feiern,to celebrate
+Festtag,public holiday
+Gebühr,fee
+gebührenfrei,free
+Gemälde,painting
+herunterladen,to download
+Hochzeit,wedding
+Kabel,cable/wiring
+Karneval,carnival
+Kerze,candle
+Messe,mass
+plaudern,to chat
+Schaufensterbummel,window shopping
+schieben,to push
+schmücken,to decorate
+Sitten,customs/traditions
+Tastatur,keyboard
+tippen,to type
+überraschen,to surprise
+Verabredung,appointment
+Veranstaltung,event
+vorziehen,to prefer
+Blockflöte,recorder
+Flöte,flute
+Geige,violin
+Gitarre,guitar
+Klarinette,clarinet
+Klavier,piano
+Schlagzeug,drums/percussion
+Trompete,trumpet
+üben,to practise
+Dokumentarfilm,documentary
+Komödie,comedy
+Krimi,thriller
+Nachrichten,news
+Quizsendung,quiz show
+Seifenoper,soap opera
+Sendung,programme
+Serie,series
+Zeichentrickfilm,cartoon
+anschauen,to look at
+ansehen,to look at
+fernsehen,to watch TV
+Fernseher,TV set
+hören,to hear
+Hörer,receiver
+Illustrierte,magazine
+Konzert,concert
+Kopfhörer,headphones
+Lieblings,favourite
+Lied,song
+Musiker,musician
+musizieren,to play music
+Oper,opera
+Roman,novel
+Sänger,singer
+Schauspieler,actor
+sehen,to see
+singen,to sing
+Stereoanlage,stereo system
+Tanz,dance
+tanzen,to dance
+Taschenbuch,paperback
+Theater,theatre
+Theaterstück,play
+Tragödie,tragedy
+zeichnen,to draw
+zeigen,to show
+Zeit,time
+Zeitschrift,magazine
+Zeitung,newspaper
+Abenteuer,adventure
+aufführen,to perform
+Aufführung,performance
+Bildschirm,screen
+blasen,to blow
+Blaskapelle,brass band
+Bühne,stage
+Fernbedienung,remote control
+Garderobe,cloakroom
+Gerät,equipment
+Geräusch,sound
+Geräusch,quiet
+Medien,media
+Moderator,TV presenter
+Parkett,stalls
+passieren,to happen
+Rang,circle
+Stimme,voice
+Stimmung,atmosphere
+Tagesschau,evening news
+Unterhaltung,entertainment
+Untertitel,subtitle
+Vorstellung,performance
+Werbung,advertising
+Zuschauer,audience
+Affe,monkey
+anders,different
+anderswo,somewhere else
+Anmeldung,reception
+annehmen,to accept
+anrufen,to phone/to call
+Aufenthalt,stay
+Aufzug,lift
+Ausflug,trip
+ausfüllen,to fill in
+Auskunft,information
+Ausland,abroad
+Ausländer,foreigner
+Aussicht,to view
+Auswahl,choice
+Ausweis,identity card
+Bär,bear
+bedienen,to serve
+Bedienung,service
+Bettwäsche,bedlinen
+bedecken,to cover
+bedeckt,overcast
+bewölkt,overcast
+donnern,to thunder
+dunkel,dark
+frieren,to freeze
+Gewitter,thunderstorm
+Hagel,hail
+hageln,to hail
+heiß,hot
+heiter,bright
+Hitze,heat
+kalt,cold
+Klima,climate
+kühl,cool
+Löwe,lion
+nass,wet
+Nebel,fog/mist
+nebelig,foggy/misty
+Regen,rain
+Regenschirm,umbrella
+regnen,to rain
+regnerisch,rainy
+Schauer,shower
+scheinen,to shine
+Schnee,snow
+schneien,to snow
+schön,beautiful/fine
+sich sonnen,to sunbathe
+Sonne,sun,
+sonnig,sunny
+stürmisch,stormy
+Sturm,storm
+Wetter,weather
+Wetterbericht,forecast
+Wettervorhersage,forecast
+windig,windy
+Wolke,cloud
+wolkig,cloudy
+Blick,look/glance
+bleiben,to stay/to remain
+Broschüre,brochure
+Campingplatz,camp site
+Empfang,reception
+Empfangsdame,receptionist
+Ferien,holiday
+Formular,form
+Fotoapparat,camera
+Fotograf,photographer
+Fundbüro,lost property office
+Gast,guest
+Gastgeber,host
+Gasthaus,pub
+Gaststätte,restaurant/pub
+Gepäck,luggage
+gültig,valid
+Herbergseltern,wardens
+Insel,island
+Jugendherberge,youth hostel
+Koffer,suitcase
+Küste,coast
+Lagerfeuer,camp fire
+Land,country
+Landkarte,map
+Landschaft,countryside/scenery
+Luxus,luxury
+Meer,sea
+mitnehmen,to take
+Ort,place
+Pass,passport
+Pension,boarding house
+Personalausweis,identity card
+Prospekt,leaflet
+Reise,journey
+Reisebüro,travel agent/travel agency
+Reisebus,coach/travel bus
+reisen,to travel
+Reisende,traveller
+Reisescheck,traveller’s cheque
+Reiseziel,destination
+Scheckheft,cheque book
+Schlafsack,sleeping bag
+Sonnenbrand,sunburn
+Sonnencreme,sun cream
+Strand,beach
+suchen,to look for
+Taschenlampe,torch
+Taschenmesser,pocket knife/pen-knife
+Überfahrt,crossing
+übernachten,to stay the night
+Unterkunft,accommodation
+unterwegs,on the way
+Urlaub,holiday
+Welle,wave
+Wohnwagen,caravan
+Zelt,tent
+zelten,to camp
+Zimmermädchen,maid,
+Aufenthaltsdauer,length of stay
+austauschen,to exchange
+entkommen,to escape
+entscheiden,to decide
+entspannen sich,to relax
+feucht,humid
+Fremdenführer,tour guide
+freuen sich auf,to look forward to
+freuen sich über,to be pleased about
+Führung,guided tour
+Kurs,exchange rate
+lauwarm,lukewarm
+Niederschlag,precipitation
+Reiseführer,tourist guide
+Rolltreppe,escalator
+Rundgang,guided,tour
+Schatten,shade
+Tropfen,drop
+veränderlich,changeable
+verändern sich,to change
+wechselhaft,changeable
+Abfall,rubbish
+Abfalleimer,rubbish bin
+Ampel,traffic lights
+Angst haben,to be frightened
+anspringen,to start a car
+arm,poor
+Blei,lead
+Brand,fire
+Erde,earth
+Grad,degree
+Grenze,border
+herrlich,splendid/wonderful
+Himmel,sky
+hoch,high
+Jahr,year
+Jahreszeit,season
+jährlich,annually
+Luft,air
+Müll,rubbish/waste
+Nachteil,disadvantage
+tief,low
+niedrig,low
+Norden,northern
+Osten,east
+Panne,breakdown
+Parkhaus,multi-storey car park
+Parkplatz,car park
+Partei,party
+Polizei,police
+Polizeiwache,police station
+Polizist,policeman
+Portemonnaie,purse
+Rauch,smoke
+rauchen,to smoke
+Recht haben,to be right
+Rechtsanwalt/anwältin,lawyer
+Rede,speech
+reden,to talk
+Reifen,tyre
+Reifenpanne,puncture
+Reparatur,repair
+reparieren,to repair
+Scheinwerfer,headlight
+Schornstein,chimney
+Strom,electricity
+Süden,south
+Umwelt,environment
+verbieten,to forbid
+verboten,forbidden
+vergessen,to forget
+Vorteil,advantage
+Welt,world
+Westen,west
+Zigarette,cigarette
+Zoll,customs,
+Abschleppwagen,breakdown truck
+abschliessen,to lock,up
+Altpapier,recycled paper
+anzünden,to light
+aufgeben,to stop
+behandeln,to treat
+Behandlung,treatment
+behindert,disabled
+beklagen sich,to complain
+beleuchten,to light,up
+beschädigen,to damage
+beschäftigt,busy
+beschließen,to decide
+beschweren sich,to complain
+bessern sich,to improve
+Besserung,improvement
+bestätigen,to confirm
+bestehen auf,to insist on
+betrügen,to deceive
+betrunken,drunk
+beweisen,to prove
+Dieb,thief
+Diebstahl,theft
+dringend,urgent
+drogensüchtig,drug dependent
+drohen,to threaten
+Einbrecher,burglar
+ertrinken,to drown
+Flaschencontainer,bottle bank
+Fleck,stain
+Gefängnis,prison
+Geldstrafe,fine
+Gesetz,law
+gestattet,permitted
+Gewohnheit,habit
+globale Erwärmung,global warming
+klagen,to complain
+Kraftwerk,power,station
+löschen,to extinguish
+lösen,to solve
+lügen,to lie
+Missverständnis,misunderstanding
+Mond,moon
+Mord,murder
+Not,emergency
+Not,emergency call
+Rat,advice
+raten,to advise
+recyceln,to recycle
+reduzieren,to reduce
+Regel,rule
+Regierung,government
+Retten,to rescue
+Rettung,rescue
+Risiko,risk
+Rollstuhl,wheelchair
+schämen sich,to be ashamed
+schulden,to owe
+schuldig,guilty/owing
+schützen,to protect
+Sozialwohnung,council house
+stehlen,to steal
+sterben,to die
+Tod,death
+töten,to kill
+Treibhauseffekt,greenhouse effect
+überschwemmen,to flood
+umkommen,to die
+umtauschen,to exchange
+Unterschied,difference
+verbrauchen,to consume
+verderben,to spoil/to pollute
+vergiften,to poison
+Vergleich,comparison
+vergleichen,to compare
+verhaften,to arrest
+verlaufen sich,to get lost
+vermeiden,to avoid
+verschmutzen,to pollute
+Verschmutzung,pollution
+verschwenden,to waste
+verschwinden,to disappear
+versichern,to insure
+Versicherung,insurance
+verstecken,to hide
+wegwerfen,to throw away
+wieder,verwerten,to recycle
+zerstören,to destroy
+Zeuge,witness,
+Abitur,exam
+Aufgabe,exercise/task
+aufhören,to stop
+aufmachen,to open
+aufräumen,to tidy
+aufpassen,to pay attention
+Aula,school hall
+ausmachen,to turn off
+Doppelstunde,double period
+Gebäude,building
+Gespräch,conversation
+Gruppe,group
+Haus aufgaben,homework
+Hausmeister/in,caretaker
+Haustür,front door
+Heft,exercise book
+interessant,interesting
+interessieren sich für,to be interested in
+Kindheit,childhood
+Klasse,class
+Klassenarbeit,test
+Klassenkamarad,classmate
+Klassenzimmer,classroom
+kompliziert,complicated
+korrigieren,to correct
+Labor,laboratory
+sich langweilen,to be bored
+langweilig,boring
+Lärm,noise
+lehren,to teach
+Lehrer,teacher
+Lehrling,apprentice
+leicht,light
+lernen,to learn
+lesen,to read
+Lesen,reading
+Note,mark
+nötig,necessary
+notwendig,necessary
+nützlich,useful
+nutzlos,useless
+Oberstufe,sixth form
+Pause,break
+Mittagspause,lunch
+Platz,seat/room/square/court/pitch
+prüfen,to test
+Prüfung,examination
+Punkt,point
+pünktlich,punctual/on time
+richtig,right/correct,
+Saal,hall
+schreiben,to write
+Schreibpapier,writing paper
+Schreibwarengeschäft,stationer's
+Schuldirektor,head teacher
+Schule,school
+Schüler,pupil
+Schüleraustausch,school exchange
+Schulhof,school playground
+Schulstunde,lesson
+schwach,weak
+schweigen,to be silent
+schwer,hard
+schwierig,difficult
+Seite,page/side
+Semester,term
+stimmt,that's right
+studieren,to study
+Stunde,hour
+Stundenplan,timetable
+Tafel,board
+Tag,day
+Tagebuch,diary
+Unterricht,lessons
+unterrichten,to teach
+Versuch,experiment/attempt
+versuchen,to try
+Wahl,choice
+Wahlfach,option/subject
+wählen,to choose
+wissen,to know
+Woche,week
+Wochenende,weekend
+Wort,word
+zuhören,to listen to 
+Bleistift,pencil
+Etui,pencil case
+Filzstift,felt tip pen
+füllen,to fill
+Füller,fountain pen
+Gummi,rubber
+Kugelschreiber,ball point pen
+Lineal,ruler
+Notizbuch,note book
+Papier,documents
+Radiergummi,rubber
+Sache,thing,
+Schere,scissors
+Stift,something to write with
+Stück,piece
+Taschenrechner,calculator
+Taschentuch,handkerchief
+Wörterbuch,dictionary
+Zettel,note/piece of paper
+Chemie,chemistry
+Erdkunde,geography
+Fach,subject
+Fremdsprache,language/foreign language
+Geschichte,history
+Hauswirtschaftslehre,home economics
+Informatik,I.T.
+Mathematik,maths
+Naturwissenschaften,science
+Pflichtfach,compulsory subject
+Physik,physics
+Technologie,CDT
+Turnen,P.E/physical education
+Turnhalle,gymnasium
+Berufsschule,technical college
+Gesamtschule,comprehensive school
+Grundschule,primary school
+Gymnasium,grammar school
+Hauptschule,secondary modern school
+Internat,boarding school
+Kindergarten,nursery school/Kindergarten
+Privatschule,private school
+Realschule,secondary technical school
+Universität,university
+Aufsatz,essay
+Belohnung,reward
+Bemerken,to notice
+benehmen sich ,to behave
+beobachten,to watch
+Betriebswirtschaft,business studies
+Bildung,education
+brav,well behaved
+Brett,notice board
+durchfallen,to fail
+einreichen,to hand in
+falten,to fold
+Fortschritt,progress
+Gang,corridor
+herausfinden,to find out
+herunterladen,to download
+kleben,to stick
+loben,to praise
+lohnen sich,to be worthwhile
+mangelhaft,poor
+meinen,to mean
+mündlich,oral
+nachdenken,to reflect
+nachsitzen müssen,to be kept in
+rechnen,to calculate
+Rolle,rôle
+schaffen,to succeed
+schriftlich,in writing
+Schulzeugnis,school report
+sitzen bleiben,to repeat the year
+Sozialkunde,social science
+stören,to disturb
+übersetzen,to translate
+Übersetzung,translation
+Meinungsumfrage,survey
+verbessern,to correct
+Versammlung,meeting
+Vokabeln,vocabulary
+zählen,to count
+Aktentasche,briefcase
+Anzeige,advertisement
+Arbeit,work
+arbeiten,to work
+Arbeiter,worker
+Ausbildung,training
+ausbilden,to train
+Bericht,report
+Beruf,profession
+Betriebspraktikum,work experience
+Brieftasche,wallet
+Büro,office
+Fabrik,factory
+Feierabend,end of work day
+Feiertag,public holiday
+Firma,company
+Ganztagsstelle,full time job
+Gehalt,salary/pay
+Kasse,till
+Kleingeld,change
+Kunde,customer
+Lohn,wages
+Münze,coin
+Pfund,pound
+Reklame,advert
+Schein,note
+Stelle,place
+Taschengeld,pocket money
+Teilzeitarbeit,part time work
+Telefonbuch,telephone directory/telephone book
+Telefonzelle,telephone box
+Termin,appointment
+Theke,counter
+Trinkgeld,tip
+Umschlag,envelope
+unterschreiben,to sign
+Unterschrift,signature
+verdienen,to earn
+Vorwahl,dialling code
+weiter machen,to continue
+Zukunft,future
+arbeitslos,unemployed
+Armee,army
+Arzt,doctor
+Babysitten,babysitting
+babysitten,to baby sit
+Beamte,civil servant/official
+Briefträger,postman
+Chef,boss
+Elektriker,electrician
+Feuerwehr,fire brigade
+Feuerwehrmann,fireman
+Frisör,hairdresser
+Geschäftsmann,businessman
+Händler,shopkeeper
+Ingenieur,engineer
+Kassierer,cashier
+Kellner,waiter
+Klempner,plumber
+Koch,cook
+kochen,to cook
+Künstler,artist
+Laden,shop
+Ladenbesitzer,shop owner
+Leiter,manager
+Leiter,ladder
+Mauer,wall
+Maurer,builderbuilder
+Mechaniker,mechanic
+Programmierer,computer programmer
+Sekretär,secretary
+Soldat,soldier
+Tierarzt,vet
+Verkäufer,sales assistant,
+Arbeitgeber,employer
+Arbeitnehmer,employee
+Arbeitsamt,job,centre
+Arbeitslosigkeit,unemployment
+Berufsberatung,careers advice
+bewerben,to apply for a job
+Bewerbungsgespräch,job interview
+Gelegenheit,opportunity
+gelingen,to succeed
+Hochschulabschluß,degree
+Jura,law
+Lebenslauf,CV
+leisten,to achieve
+Leistung,achievement
+Matrose,sailor
+Pension,retire
+in Pension gehen,to retire
+Personal,staff
+qualifiziert,qualified
+Quittung,receipt
+Rente,pension
+tippen,to type
+Universitätsabschluss,grad degree
+vorhaben,to intend
+Vorschlag,suggestion
+Vorstellungsgespräch,job interview
